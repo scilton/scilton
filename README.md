@@ -1,4 +1,6 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Eng. Ahmed El-maghraaby</h1>
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
+<h1 align="center">Hi 👋‹, I'm Eng. Ahmed El-maghraaby</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scilton" alt="scilton" /></a> </p>
